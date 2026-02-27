@@ -1,4 +1,6 @@
 NYC Jobs Data Engineering Challenge
+
+
 This repository contains my complete solution to the NYC Jobs Data Engineering Coding Challenge, focused on end‑to‑end data exploration, processing, feature engineering, and analytical insights using PySpark.
 
 The challenge uses the publicly available NYC Jobs dataset, which includes internal and external job postings from the City of New York.
